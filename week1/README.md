@@ -1,4 +1,5 @@
-# Problem of the Week #1
+# Problem of the week #1 - Orientation
+
 Welcome to the first problem of the summer! First off, I want to give some general information about programming competitions:
 
 * About 80% of competitive programmers use C++. I would highly recommend using it.
